@@ -23,7 +23,7 @@ The following layers are used:
   under spacebar stops flashing
 - Reset selected layer only: `Fn + R` until LED under spacebar stops flashing
 
-> [POK3R User Manual](files/POK3R.User.Manual.V1.5.2.pdf); Vortex keeps
+> [POK3R User Manual](docs/POK3R.User.Manual.V1.5.2.pdf); Vortex keeps
 > shifting their URLs, so local copy (thanks @couto, @josephfusco)
 
 ## Programming Instructions
