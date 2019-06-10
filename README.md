@@ -10,37 +10,38 @@ to buy:
 - [Amazon](http://smile.amazon.com/Mechanical-Keyboard-Keycaps-Cherry-Mx-Blue/dp/B00OFM51L2/),
 - [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1233)
 
-The following layers are used in either OS:
-- Linux/Windows: Layer 2 (blue LED), switch to it with: `FN + ,<`
-- macOS: Layer 3 (red LED), switch with: `FN + .>`
+The following layers are used:
+- Linux/Windows: Layer 2 (blue LED), switch to it with: `Fn + ,<`
+- macOS: Layer 3 (red LED), switch with: `Fn + .>`
 
 ## General Tips
 
-- Toggle arrow-keys on R_Shift, Fn, Pn, and R_Ctrl:   
+- Toggle arrow-keys on `R_Shift`, `Fn`, `Pn`, and `R_Ctrl`:   
   Press Win/Symbol, R_Alt and Space
 
 ## General POK3R programming info
 
-- [POK3R User Manual](files\POK3R.User.Manual.V1.5.2.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
-- Factory reset: Hold both the left and right `ALT` keys
-- Reset selected layer only: `FN + R` until LED under spacebar stops flashing
+- [POK3R User Manual](files/POK3R.User.Manual.V1.5.2.pdf); Vortex keeps
+  shifting their URLs, so local copy (thanks @couto, @josephfusco)
+- Factory reset: Hold both the left and right `Alt` keys
+- Reset selected layer only: `Fn + R` until LED under spacebar stops flashing
 
 ### Programming of layers 2-4:
 
 - Default layer cannot be programmed
-- `FN + R_Ctrl`  (use `L_Ctrl` if `FN` has been reassigned already) -> second LED under space bar is now lit
-- hit `target key`, then: `new content` (can be up to 32 char), then: `PN` (second LED will blink while programming)
-- `FN + R_Ctrl` to exit programming -> second LED extinguishes
+- `Fn + R_Ctrl`  (use `L_Ctrl` if `Fn` has been reassigned already) -> second LED under space bar is now lit
+- hit `target key`, then: `new content` (can be up to 32 char), then: `Pn` (second LED will blink while programming)
+- `Fn + R_Ctrl` to exit programming -> second LED extinguishes
 - During programming, use the keys as labelled on the keyboard, irrespective of any reassignments
 
 ## Layer 2 (Blue) for Windows:
 
-`FN + ,<` to switch to Layer 2
+`Fn + ,<` to switch to Layer 2
 
-- [Move FN to L_Ctrl](#Move_FN)
-- `FN + R_Ctrl` to enter programming
+- [Move Fn to L_Ctrl](#Move_Fn)
+- `Fn + R_Ctrl` to enter programming
 - [Common bindings](#common_bindings)
-- `FN + R_Ctrl` to exit programming
+- `Fn + R_Ctrl` to exit programming
 
 Resulting programming:
 
@@ -49,16 +50,16 @@ Windows Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor
 
 ## Layer 3 (Red) for macOS:
 
-`FN + .` to switch to Layer  3
-- [Move FN to L_Ctrl](#Move_FN)
-- `FN + R_Ctrl` to enter programming
+`Fn + .` to switch to Layer  3
+- [Move Fn to L_Ctrl](#Move_Fn)
+- `Fn + R_Ctrl` to enter programming
 - [Common bindings](#common_bindings)
 - Swap Cmd/Opt keys on both sides of space bar:
-  - L_Cmd: `L_Alt` then: `L_WIN` then: `PN`
-  - L_Option: `L_WIN` then: `L_Alt` then: `PN`
-  - R_CMD: `R_Alt` then: `R_FN` (Win) then: `PN`
-  - R_Option: `R_FN` (Win) then: `R_Alt` then: `PN`
-- `FN + R_Ctrl` to exit programming
+  - L_Cmd: `L_Alt` then: `L_WIN` then: `Pn`
+  - L_Option: `L_WIN` then: `L_Alt` then: `Pn`
+  - R_CMD: `R_Alt` then: `R_Fn` (Win) then: `Pn`
+  - R_Option: `R_Fn` (Win) then: `R_Alt` then: `Pn`
+- `Fn + R_Ctrl` to exit programming
 
 Resulting programming:
 
@@ -68,27 +69,27 @@ macOS Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.c
 ## <a name="common_bindings"></a>Common key bindings for all OSs
 
 - CapsLock always as Ctrl:
-  - `CapsLock` then: `L_Ctrl` then: `PN` to confirm
-  - `FN + CapsLock` then: `L_Ctrl` then: `PN` to confirm
+  - `CapsLock` then: `L_Ctrl` then: `Pn` to confirm
+  - `Fn + CapsLock` then: `L_Ctrl` then: `Pn` to confirm
 - VIM like HJKL and Page Up/Down:
-  - Left: `FN + H` then: `FN + J` then: `PN`
-  - Down: `FN + J` then: `FN + K` then: `PN`
-  - Up: `FN + K` then: `FN + I` then: `PN`
-  - PgDown: `FN + F` then: `FN + O` then: `PN`
-  - PgUp: `FN + B` then: `FN + U` then: `PN`
-- Home: `FN + I` then: `FN + H` then: `PN`
+  - Left: `Fn + H` then: `Fn + J` then: `Pn`
+  - Down: `Fn + J` then: `Fn + K` then: `Pn`
+  - Up: `Fn + K` then: `Fn + I` then: `Pn`
+  - PgDown: `Fn + F` then: `Fn + O` then: `Pn`
+  - PgUp: `Fn + B` then: `Fn + U` then: `Pn`
+- Home: `Fn + I` then: `Fn + H` then: `Pn`
 - Volume controls:
-  - Mute: `FN + X` then: `FN + /?` then: `PN`
-  - Vol-: `FN + C` then: `FN + ,<` then: `PN`
-  - Vol+: `FN + V` then: `FN + .>` then: `PN`
+  - Mute: `Fn + X` then: `Fn + /?` then: `Pn`
+  - Vol-: `Fn + C` then: `Fn + ,<` then: `Pn`
+  - Vol+: `Fn + V` then: `Fn + .>` then: `Pn`
 
-## <a name="Move_FN"></a>Move FN to L_Ctrl
+## <a name="Move_Fn"></a>Move Fn to L_Ctrl
 
-HJKL as cursor keys are more ergonomical to reach by moving the FN to the left Ctrl key location:
+HJKL as cursor keys are more ergonomical to reach by moving the Fn to the left Ctrl key location:
 - Switch to Layer 2 (or 3, 4); this programming is per layer
 - Unplug keyboard
 - DIP switch 4 to ON
-- Plugin keyboard again, then press `FN` then: `L_Ctrl` then: `PN` then: `PN` (to leave it in its original location)
+- Plugin keyboard again, then press `Fn` then: `L_Ctrl` then: `Pn` then: `Pn` (to leave it in its original location)
 - DIP switch 4 back to OFF (no need to unplug)
 
 ## Sources
