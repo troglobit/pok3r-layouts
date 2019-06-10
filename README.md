@@ -14,6 +14,11 @@ The following layers are used in either OS:
 - Linux/Windows: Layer 2 (blue LED), switch to it with: `FN + ,<`
 - macOS: Layer 3 (red LED), switch with: `FN + .>`
 
+## General Tips
+
+- Toggle arrow-keys on R_Shift, Fn, Pn, and R_Ctrl:   
+  Press Win/Symbol, R_Alt and Space
+
 ## General POK3R programming info
 
 - [POK3R User Manual](files\POK3R.User.Manual.V1.5.2.pdf); Vortex keeps shifting their URLs, so local copy (thanks @couto, @josephfusco)
