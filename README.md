@@ -1,14 +1,15 @@
 # Vortex POK3R Keyboard Layouts
 
+<a href="http://rhinofeed.com/blog/vortex-pok3r-review/"><img align="right" src="img/vortex-pok3r-review.png"
+   alt="Review of the Vortex Poker keyboard" title="Vortex Pok3r Review"></a>
+
 This document contains helpful hints and layout improvements for users
 of the popular [Vortex POK3R](http://www.vortexgear.tw/) mechanical
 keyboard.  The layouts work with Linux, Windows and macOS.
 
-For those who do not know what a POK3R keyboard is, this is a [decent
-review](https://www.youtube.com/watch?v=8wjW-Or1jg8).  Multiple sources
-to buy:
+Multiple sources to buy one:
 
-- [WASD Keyboards](http://www.wasdkeyboards.com/)
+- [WASD Keyboards](http://www.wasdkeyboards.com/) brand-lables it, provides custom key caps
 - [Amazon](http://smile.amazon.com/Mechanical-Keyboard-Keycaps-Cherry-Mx-Blue/dp/B00OFM51L2/),
 - [mechanicalkeyboards.com](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1233)
 
