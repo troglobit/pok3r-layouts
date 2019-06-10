@@ -26,15 +26,26 @@ The following layers are used:
 > [POK3R User Manual](files/POK3R.User.Manual.V1.5.2.pdf); Vortex keeps
 > shifting their URLs, so local copy (thanks @couto, @josephfusco)
 
-## Programming Layers 2-4
+## Programming Instructions
+
+When the keyboard is in programming mode a second LED will light up on
+the right hand side of the space bar.  It starts blinking as soon as you
+start the programming of a key and will only turn off when you exit the
+programming mode.
 
 - Default layer (`Fn+M`) cannot be programmed
-- `Fn + R_Ctrl`  (use `L_Ctrl` if `Fn` has been reassigned already) -> second LED under space bar is now lit
-- hit `target key`, then: `new content` (can be up to 32 char), then: `Pn` (second LED will blink while programming)
-- `Fn + R_Ctrl` to exit programming -> second LED extinguishes
+- Enter programming mode: `Fn + R_Ctrl`¹, second LED under space bar lights up
+  - Press `key to program`, second LED under spacebar will now blink
+  - Enter `new content`, this can be up to 32 characters
+  - Confirm with `Pn`, second LED will now stop blinking
+- Exit programming: `Fn + R_Ctrl`, second LED goes dark
 
 > **Note:** During programming, use the keys as labelled on the
 > keyboard, irrespective of any reassignments.
+
+____
+¹ If you've already moved/reassigned your Fn key, as mentioned below, then you
+  need to use that key `+ R_Ctrl` to enter/exit programming mode.
 
 ## Layer 2 (Blue) for Windows
 
