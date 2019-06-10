@@ -11,7 +11,7 @@
 - [Layer 2 (Blue) for Windows](#layer-2-blue-for-windows)
 - [Layer 3 (Red) for macOS](#layer-3-red-for-macos)
 - [Common Bindings](#common-bindings)
-- [Move Fn to L_Ctrl](#move-fn-to-l-ctrl)
+- [Move Fn to L_Ctrl](#move-fn-to-l_ctrl)
 - [Sources](#sources)
 
 ## Introduction
@@ -65,7 +65,7 @@ ____
 
 `Fn + ,<` to switch to Layer 2
 
-- [Move Fn to L_Ctrl](#move-fn-to-l-ctrl)
+- [Move Fn to L_Ctrl](#move-fn-to-l_ctrl)
 - `Fn + R_Ctrl` to enter programming
 - [Common bindings](#common-bindings)
 - `Fn + R_Ctrl` to exit programming
@@ -79,7 +79,7 @@ Windows Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor
 
 `Fn + .` to switch to Layer 3.
 
-- [Move Fn to L_Ctrl](#move-fn-to-l-ctrl)
+- [Move Fn to L_Ctrl](#move-fn-to-l_ctrl)
 - `Fn + R_Ctrl` to enter programming
 - [Common bindings](#common-bindings)
 - Swap Cmd/Opt keys on both sides of space bar:
