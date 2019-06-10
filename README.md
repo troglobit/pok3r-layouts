@@ -63,7 +63,8 @@ Windows Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor
 
 ## Layer 3 (Red) for macOS
 
-`Fn + .` to switch to Layer  3
+`Fn + .` to switch to Layer 3.
+
 - [Move Fn to L_Ctrl](#Move_Fn)
 - `Fn + R_Ctrl` to enter programming
 - [Common bindings](#common_bindings)
@@ -81,10 +82,12 @@ macOS Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.c
 
 ## <a name="common_bindings"></a>Common key bindings for all OSs
 
+Enter programming mode first.
+
 - CapsLock always as Ctrl:
   - `CapsLock` then: `L_Ctrl` then: `Pn` to confirm
   - `Fn + CapsLock` then: `L_Ctrl` then: `Pn` to confirm
-- VIM like HJKL and Page Up/Down:
+- VI/VIM style HJKL for arrow keys and Page Up/Down:
   - Left: `Fn + H` then: `Fn + J` then: `Pn`
   - Down: `Fn + J` then: `Fn + K` then: `Pn`
   - Up: `Fn + K` then: `Fn + I` then: `Pn`
@@ -96,14 +99,22 @@ macOS Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.c
   - Vol-: `Fn + C` then: `Fn + ,<` then: `Pn`
   - Vol+: `Fn + V` then: `Fn + .>` then: `Pn`
 
+Remember to exit programming mode to activate changes.  See each
+respective OS section above.
+
 ## <a name="Move_Fn"></a>Move Fn to L_Ctrl
 
-HJKL as cursor keys are more ergonomical to reach by moving the Fn to the left Ctrl key location:
+The VI/VIM style HJKL as cursor keys are more ergonomical to reach by
+moving the Fn to the left Ctrl key location.  Note: here you don't need
+to go into the programming mode, instead the DIP switch on the back is
+used:
+
 - Switch to Layer 2 (or 3, 4); this programming is per layer
 - Unplug keyboard
 - DIP switch 4 to ON
 - Plugin keyboard again, then press `Fn` then: `L_Ctrl` then: `Pn` then: `Pn` (to leave it in its original location)
 - DIP switch 4 back to OFF (no need to unplug)
+
 
 ## Sources
 
