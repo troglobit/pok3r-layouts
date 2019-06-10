@@ -1,8 +1,10 @@
-# POK3R keyboard layouts
+# Vortex POK3R Keyboard Layouts
 
-These layouts work with Linux, Windows and macOS.
+This document contains helpful hints and layout improvements for users
+of the popular [Vortex POK3R](http://www.vortexgear.tw/) mechanical
+keyboard.  The layouts work with Linux, Windows and macOS.
 
-For those who don't know what a POK3R keyboard is, this is a [decent
+For those who do not know what a POK3R keyboard is, this is a [decent
 review](https://www.youtube.com/watch?v=8wjW-Or1jg8).  Multiple sources
 to buy:
 
