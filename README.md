@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
 - [Tips & Tricks](#tips--tricks)
 - [Programming Instructions](#programming-instructions)
-- [Layer 2 (Blue) for Linux/Windows](#layer-2-blue-for-linux-windows)
+- [Layer 2 (Blue) for Linux/Windows](#layer-2-blue-for-linuxwindows)
 - [Layer 3 (Red) for macOS](#layer-3-red-for-macos)
 - [Common Bindings](#common-bindings)
 - [Move Fn to L_Ctrl](#move-fn-to-l_ctrl)
