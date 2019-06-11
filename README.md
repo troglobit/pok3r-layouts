@@ -61,7 +61,7 @@ ____
 ¹ If you've already moved/reassigned your Fn key, as mentioned below, then you
   need to use that key `+ R_Ctrl` to enter/exit programming mode.
 
-## Layer 2 (Blue) for Línux/Windows
+## Layer 2 (Blue) for Linux/Windows
 
 `Fn + ,<` to switch to Layer 2
 
